@@ -18,6 +18,7 @@ Further in this, The attributes included characteristics such as IncomeRange, Is
 
 Content of this project:
 •	Jupyter Notebook " Peer to Peer loans"
+•	 The blog can be found at "https://medium.com/@csmohammedalotaibi/peer-to-peer-loan-analysis-to-reduce-risk-data-analysis-ec0e5c777ae"
 •	" columns description.xlsx" file which describe all columns of the data 
 •	" prosperLoanData.csv" file which contains the data 
 •	Read me file 
